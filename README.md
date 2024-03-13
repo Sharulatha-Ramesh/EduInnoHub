@@ -5,8 +5,6 @@ We built a MERN stack web app for students to discover and share innovative proj
 
 
 
-
-
 ## API Reference
 
 #### Get profile
@@ -156,5 +154,4 @@ Javascript, HTML, CSS , Node, Express, React
 
 ## Lessons Learned
 
-I have learned how to connect API's with frontend and database management.
-
+I have learned React, Node and MongoDB.
